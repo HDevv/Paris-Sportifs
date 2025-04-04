@@ -1,5 +1,15 @@
 # ⚽ Prédiction de Résultats de Matchs de Football & Recommandation de Paris Sportifs
 
+
+## 📁 Structure du projet
+Le dossier contient :  
+- les fichiers générés via google collab pour la phase de résultats
+- le google collab
+- App.js : pour l'interface Streamlit
+- Requirements.txt : technologies nécessaires
+- un sous-dossier CSV : contenant les CSV du site https://www.football-data.co.uk/downloadm.php
+- Ce READMe, pour vous servir 
+
 ## 📌 Objectif
 
 Ce projet a pour but de prédire les résultats des matchs de football (Victoire à domicile, Nul ou Victoire à l’extérieur) à partir de données historiques enrichies, tout en fournissant des recommandations de paris en identifiant les "values" potentielles (écarts entre probabilité prédite et cote attendue).

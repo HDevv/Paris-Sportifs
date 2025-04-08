@@ -1,5 +1,8 @@
 # ⚽ Prédiction de Résultats de Matchs de Football & Recommandation de Paris Sportifs
 
+## 🎬 Vidéo de présentation du projet
+
+https://www.loom.com/share/7d0f04edb2434e4b8c6ea6de5346ee4f?sid=55c7a88a-51eb-4c38-9417-5c86ff8af451
 
 ## 📁 Structure du projet
 Le dossier contient :  
